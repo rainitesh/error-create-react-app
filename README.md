@@ -137,7 +137,8 @@ Failed to compile with error code ELIFECYCLE, errno 1
 > npm ERR!     /home/andro/.npm/_logs/2017-06-27T16_14_58_135Z-debug.log
 
 **Log File**
-[https://github.com/rambabusaravanan/error-create-react-app/blob/master/2017-06-27T16_14_58_135Z-debug.log](https://github.com/rambabusaravanan/error-create-react-app/blob/master/2017-06-27T16_14_58_135Z-debug.log)
+[https://github.com/rainitesh/error-create-react-app/blob/master/2018-01-17T23_05_13_308Z-debug.log]
+(https://github.com/rainitesh/error-create-react-app/blob/master/2018-01-17T23_05_13_308Z-debug.log)
 
 ### Reproducible Demo
 
@@ -173,8 +174,6 @@ checkout the latest commit and `npm install` and perform `npm run build`
 
   Thanks for helping us help you!
 -->
-I'm building a login/logout platform which intercats Django backend using Oauth. I am using this example as my base http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example However, I'm not using the example's webpack. I am just using the create-react-app's default build configs right now. 
+I'm building a login/logout platform which intercats with Django backend using Oauth. I am using this example as my base http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example However, I'm not using the example's webpack. I am just using the create-react-app's default build configs right now. 
 
 `npm start` works fine but `npm run build` fails with error code ELIFECYCLE, errno 1. Despite the failure, it does create a build folder with the static files. I uploaded the files to S3 bucket and tried hosting them. Everything seems ok and it's running fine. Not sure if any sepcific package is causing this build failure.
-But the code fails, when I add the same code in `src/index.js` where `react-scripts build` failed with error code ELIFECYCLE, errno 1
-
