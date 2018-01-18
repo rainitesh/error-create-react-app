@@ -1,0 +1,30 @@
+.btn-primary {
+  width: 100%;
+  border-radius: 0px;
+  background-color: #00b9d3;
+  border-color: #00b9d3; }
+
+.login-help {
+  color: white; }
+
+.login-border {
+  width: 350px; }
+
+.login-box {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 20px; }
+
+.form-group {
+  margin-bottom: 25px; }
+
+.form-control {
+  border-radius: 0px;
+  background-color: white; }
+
+.copyright {
+  position: absolute;
+  bottom: 30vh;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: white; }

@@ -1,0 +1,17 @@
+.FilterMenuBar {
+  z-index: 1;
+  position: absolute;
+  top: 6vh;
+  width: 100%;
+  height: 6vh;
+  background: #820096; }
+  .FilterMenuBar .filterMenuText {
+    height: 4vh; }
+    .FilterMenuBar .filterMenuText h4 {
+      width: 20vh;
+      float: right;
+      margin-left: 25px;
+      padding-left: 25px;
+      margin-top: 2vh;
+      text-align: left;
+      color: white; }
