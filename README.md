@@ -115,27 +115,6 @@ Failed to compile with error code ELIFECYCLE, errno 1
 **Terminal**
 ![alt text](https://github.com/rainitesh/error-create-react-app/blob/master/build-error.JPG)
 
-> $ npm run build
-> 
->  sample-printer@0.1.0 build /home/andro/smartd.workspace/pos-space/sample-printer
->  react-scripts build
-> 
-> Creating an optimized production build...
-> Failed to compile.
-> 
-> static/js/main.47fb6eaa.js from UglifyJs
-> Unexpected token: name (i) [./~/node-thermal-printer/node-thermal-printer.js:403,0][static/js/main.47fb6eaa.js:20938,12]
-> 
-> npm ERR! code ELIFECYCLE
-> npm ERR! errno 1
-> npm ERR! sample-printer@0.1.0 build: `react-scripts build`
-> npm ERR! Exit status 1
-> npm ERR! 
-> npm ERR! Failed at the sample-printer@0.1.0 build script.
-> npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-> 
-> npm ERR! A complete log of this run can be found in:
-> npm ERR!     /home/andro/.npm/_logs/2017-06-27T16_14_58_135Z-debug.log
 
 **Log File**
 [https://github.com/rainitesh/error-create-react-app/blob/master/2018-01-17T23_05_13_308Z-debug.log]
