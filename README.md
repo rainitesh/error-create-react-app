@@ -113,6 +113,7 @@ Successful Build.
 Failed to compile with error code ELIFECYCLE, errno 1
 
 **Terminal**
+![alt text](https://github.com/rainitesh/error-create-react-app/blob/master/build-error.JPG)
 
 > $ npm run build
 > 
