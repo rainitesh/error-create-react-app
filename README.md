@@ -70,7 +70,7 @@ ELIFECYCLE, react-scripts build
 -->
 
 1. `node -v`: v6.5.0
-2. `npm -v`: 5.5.1
+2. `npm -v`: v5.5.1
 4. `yarn --version` (if you use Yarn): NA
 3. `npm ls react-scripts` (if you haven’t ejected): react-scripts@1.1.0
 
@@ -136,7 +136,7 @@ Failed to compile with error code ELIFECYCLE, errno 1
   Once you’re done, push the project to GitHub and paste the link to it below:
 -->
 
-https://github.com/rambabusaravanan/error-create-react-app
+https://github.com/rainitesh/error-create-react-app
 checkout the latest commit and `npm install` and perform `npm run build`
 
 <!--
